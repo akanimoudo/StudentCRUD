@@ -11,6 +11,6 @@ if ($connection === FALSE){
 echo 'Connection failed';
 }
 else{
-die ("Connection succeeded");
+//die ("Connection succeeded");
 }
 ?>
